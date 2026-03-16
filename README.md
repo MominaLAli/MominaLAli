@@ -6,11 +6,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=safari&logoColor=white)]((https://mominalali.github.io/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E5484?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momina-liaqat-ali/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com/citations?user=FXrC-T4AAAAJ&hl=en))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](linkedin.com/in/mominaliaqatali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=safari&logoColor=white)](https://mominalali.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E5484?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominaliaqatali/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FXrC-T4AAAAJ&hl=en)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mominaliaqatali123)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MominaLAli)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0180-6965)
 
 </div>
 

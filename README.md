@@ -20,7 +20,8 @@
 
 ## 👩‍💻 About Me
 
-🎓 **PhD Candidate** in Computational & Data Science @ **Middle Tennessee State University** (GPA: 4.0/4.0)  
+<!--🎓 **PhD Candidate** in Computational & Data Science @ **Middle Tennessee State University** (GPA: 4.0/4.0)  -->
+🎓 **MS Student** in Data Science @ **Middle Tennessee State University** (GPA: 4.0/4.0) 
 🔬 Specializing in **Medical Imaging · Computer Vision · Deep Learning · Vision-Language Models**  
 🏅 **Gold Medalist** — MS Computer Science, PIEAS Pakistan  
 📄 **7+ publications** in IEEE Access, ASEE, CSCI, IBCAST & arXiv  

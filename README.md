@@ -114,12 +114,12 @@ Object Detection & YOLO       •    Transformer Architectures
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔬 Adaptive Multi-Scale ViT](https://github.com/momina02) | Contrastive pre-training for robust medical diagnostics | PyTorch, ViT |
-| [🧠 Bayesian CNN](https://github.com/momina02) | Uncertainty estimation for high-fidelity medical imaging | PyTorch, Bayesian DL |
-| [📖 Research Gap Detector](https://github.com/momina02) | Hybrid NLP-LLM framework for scientific literature | LangChain, GPT-4 |
-| [🎙️ Voice Browser Agent](https://github.com/momina02) | Voice-controlled browser automation using LLM | Whisper, Selenium |
-| [🌌 SDSS Classifier](https://github.com/momina02) | ML pipeline for celestial object classification | Scikit-learn, Pandas |
-| [🖐️ Gesture Lab Control](https://github.com/momina02) | YOLO-based touchless lab equipment control | YOLO, OpenCV |
+| [🔬 Adaptive Multi-Scale ViT](https://github.com/MominaLAli/Multi-Scale-ViT) | Contrastive pre-training for robust medical diagnostics | PyTorch, ViT |
+| [🧠 Bayesian CNN](https://github.com/MominaLAli/LiteCovidNet) | Uncertainty estimation for high-fidelity medical imaging | PyTorch, Bayesian DL |
+| [📖 Research Gap Detector](https://github.com/MominaLAli/Research-Gap-Identification-using-LLMs) | Hybrid NLP-LLM framework for scientific literature | LangChain, GPT-4 |
+| [🎙️ Voice Browser Agent](https://github.com/MominaLAli/Browser-Automation-with-LLM) | Voice-controlled browser automation using LLM | Whisper, Selenium |
+| [🌌 SDSS Classifier](https://github.com/MominaLAli/StellarClassification) | ML pipeline for celestial object classification | Scikit-learn, Pandas |
+| [🖐️ Gesture Lab Control](https://github.com/MominaLAli/Human-Computer-Interaction-using-Virtual-Reality) | YOLO-based touchless lab equipment control | YOLO, OpenCV |
 
 ---
 

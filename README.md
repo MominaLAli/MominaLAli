@@ -96,6 +96,19 @@ Object Detection & YOLO       •    Transformer Architectures
 
 ---
 
+## 🏅 Kaggle Badges
+
+<div align="center">
+
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/momina02/competition" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/momina02/dataset" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/momina02/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/momina02/discussion" />
+
+</div>
+
+---
+
 ## 📚 Selected Publications
 
 | Year | Paper | Venue |
